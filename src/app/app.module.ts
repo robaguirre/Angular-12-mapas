@@ -31,7 +31,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     MaterialModule,
     ReactiveFormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyDLEgfpU4ol0KDeKmxqeRUz7WX74l5o064'
+      apiKey: ' '
     })
   ],
   providers: [],
